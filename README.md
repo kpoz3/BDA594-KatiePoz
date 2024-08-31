@@ -7,4 +7,4 @@ Katie Poz
 
 
 
-Big data is the data that is used in all types of forms follwing human behavior and patterns. 
+Big data is data that is created all over the world following human behavior and patterns.
